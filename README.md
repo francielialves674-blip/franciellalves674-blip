@@ -7,12 +7,12 @@
 
 #### 💛 ONG Mãos que Cuidam
 Site para cadastro de voluntários
-**Link:** https://ong-maos-que-cuidam.vercel.app
+🔗 [Clique aqui para ver o site](https://ong-maos-que-cuidam.vercel.app)
 **Tecnologias:** HTML, CSS, JS, Vite, Vercel, GitFlow
 
 #### 🏋️‍♀️ FitnessRoutine 2.0
 Começou em C e virou site! Calcula TOP DAY e progresso semanal
-**Link:** https://franciellalves674-blip.github.io/fitness-routine/
+🔗 [Clique aqui para ver o site](https://franciellalves674-blip.github.io/fitness-routine/)
 **Tecnologias:** C, JS, GitHub Pages
 
 ### 🛠️ O que já aprendi
