@@ -12,7 +12,7 @@ Site para cadastro de voluntários
 
 #### 🏋️‍♀️ FitnessRoutine 2.0
 Começou em C e virou site! Calcula TOP DAY e progresso semanal
-🔗 [Clique aqui para ver o site](https://franciellalves674-blip.github.io/fitness-routine/)
+🔗 [Clique aqui para ver o site](https://francielialves674-blip.github.io/fitness-routine/)
 **Tecnologias:** C, JS, GitHub Pages
 
 ### 🛠️ O que já aprendi
